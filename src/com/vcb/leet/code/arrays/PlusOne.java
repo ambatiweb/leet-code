@@ -2,7 +2,7 @@ package com.vcb.leet.code.arrays;
 
 public class PlusOne {
     public static void main(String[] args) {
-        int[] digits = {1, 2, 5};
+        int[] digits = {1, 9, 9};
         int[] result = plusOne(digits);
         for (int digit : result) {
             System.out.print(digit + " "); // Output: 1 2 4
