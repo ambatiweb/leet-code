@@ -29,7 +29,8 @@ public class SingleNumber {
         }
         return result;
     }
-
+    // Brute force solution
+    // Time complexity O(n) and space complexity O(n)
     public static int singleNumber2(int[] nums) {
        if(nums.length == 1){
               return nums[0];
