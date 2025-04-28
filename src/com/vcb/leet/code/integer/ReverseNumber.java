@@ -3,10 +3,10 @@ package com.vcb.leet.code.integer;
 /**
  * Given a signed 32-bit integer x, return x with its digits reversed.
  * If reversing x causes the value to go outside the signed integer range [-2 power 31, 2 power 31,-1], then return 0.
- *
- * min: -2147483648
+ * -
+ * Min: -2147483648
  * max: 2147483647
- *
+ * -
  * Example:
  * Input: x = 123
  * Output: 321
