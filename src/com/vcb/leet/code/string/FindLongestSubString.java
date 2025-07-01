@@ -33,8 +33,6 @@ public class FindLongestSubString {
                 longestOverAll = longestTillNow;
             }
         }
-
         return longestOverAll;
-
     }
 }

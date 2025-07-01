@@ -5,7 +5,7 @@ public class PlusOne {
         int[] digits = {1, 9, 9};
         int[] result = plusOne(digits);
         for (int digit : result) {
-            System.out.print(digit + " "); // Output: 1 2 4
+            System.out.print(digit + " "); // Output: 200
         }
     }
 
