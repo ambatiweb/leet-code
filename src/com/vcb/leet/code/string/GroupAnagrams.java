@@ -1,4 +1,4 @@
-package com.vcb.leet.code.arrays;
+package com.vcb.leet.code.string;
 
 import java.util.*;
 
