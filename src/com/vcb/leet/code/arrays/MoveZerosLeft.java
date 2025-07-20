@@ -1,7 +1,14 @@
 package com.vcb.leet.code.arrays;
 
 import java.util.Arrays;
+/*
+    Given an integer array nums, move all 0's to the start of it while maintaining the relative
+    order of the non-zero elements.
+    Note: that you must do this in-place without making a copy of the array.
 
+    Input: nums = [0,1,0,3,12]
+    Output: [0,0,1,3,12]
+ */
 public class MoveZerosLeft {
     public static void main(String[] args) {
         int[] arr = {1,0,2,0,3,0,4};

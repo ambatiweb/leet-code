@@ -2,7 +2,9 @@ package com.vcb.leet.code.arrays;
 
 import java.util.HashMap;
 import java.util.Map;
+/*
 
+ */
 public class MostFrequentElement {
     public static void main(String[] args) {
         int[] array = {1,2,3,3,2,4,5};
