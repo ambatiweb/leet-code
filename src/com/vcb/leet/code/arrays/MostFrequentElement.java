@@ -30,6 +30,5 @@ public class MostFrequentElement {
             }
         }
         return mostFrequent;
-
     }
 }
