@@ -21,5 +21,5 @@ public class MaximumSubArray {
         }
 
         return maxSum;
-    }
+    } // TC:O(n) SC: O(1) - Kaden's algorithm
 }

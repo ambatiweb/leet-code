@@ -11,7 +11,7 @@ import java.util.Map;
  */
 public class SubArraySum {
     public static void main(String[] args) {
-        int[] input = {1,1,1};
+        int[] input = {1,1,1,1};
         int k = 2;
         System.out.println(subArraySum(input,k));
     }

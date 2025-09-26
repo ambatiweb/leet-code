@@ -9,9 +9,12 @@ package com.vcb.leet.code.arrays;
  */
 public class MaxProductSubArray {
     public static void main(String[] args) {
-        int[] array = {3,5,7,2,1};
+        //int[] array = {3,5,7,2,1};
+
+        int[] array = {1,2,3,4,5};
 
         System.out.println(maxProduct(array));
+
     }
 
     private static int maxProduct(int[] nums) {
@@ -35,4 +38,5 @@ public class MaxProductSubArray {
 
         return ans;
     }
+
 } // TC: O(n), SC: O(1)
